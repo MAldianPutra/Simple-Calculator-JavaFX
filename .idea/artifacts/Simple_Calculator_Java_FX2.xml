@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Simple Calculator Java FX2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_Calculator_Java_FX2</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="program.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Simple Calculator" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Simple_Calculator_Java_FX.jar">
+        <element id="module-output" name="Simple Calculator Java FX" />
+      </element>
+    </root>
+  </artifact>
+</component>
